@@ -7,6 +7,10 @@ This project is a simple, fun, and responsive browser game for two players.
 
 ---
 
+![img alt](https://github.com/rushi7077/Tic-Tac-Toe/blob/main/tic-tac-toe2.png?raw=true)
+
+---
+
 ## 🧑‍💻 Developed By
 **Rushi Baravkar**
 
